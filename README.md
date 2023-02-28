@@ -30,3 +30,9 @@ Bike riding in San Francisco was observed to have more fans among male gender gr
 Riders aged between 20 and 40 years old ride longer than compared to others.
 Bike users are mostly the ones who have subscribed compared to those who haven't.
 Thurdays and Tuesdays are the most favorable days for bike users.
+
+## To run this project you need to install :
+* NumPy
+* pandas
+* Matplotlib
+* Seaborn
